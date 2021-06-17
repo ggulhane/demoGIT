@@ -4,4 +4,8 @@ code change from local 1 branch
 
 code change#2 from local 1 branch
 
+<<<<<<< HEAD
 code change#3 in master branch
+=======
+code change#3 from local 1 branch
+>>>>>>> local1
